@@ -1,0 +1,19 @@
+StartTime		Sequence 	Nr	RecipeStep
+08/25/2026 13:31:29	3	2	MFC2_080sccm
+08/25/2026 13:31:30	3	3	Pumping_throttled
+08/25/2026 13:31:31	3	4	Wait_00min10s
+08/25/2026 13:31:41	3	5	Substrate_Rot_5rpm
+08/25/2026 13:31:42	3	6	Magnetron_Rot_50
+08/25/2026 13:31:47	3	7	Wait_00min10s
+08/25/2026 13:31:58	3	9	Mag1_2.4kW_DC
+08/25/2026 13:32:07	3	10	ProductionLog_Start
+08/25/2026 13:32:08	3	11	Wait_00min10s
+08/25/2026 13:32:18	3	12	MFC2_040sccm
+08/25/2026 13:32:19	3	13	Wait_01min10s
+08/25/2026 13:33:26	3	14	ProductionLog_Stop
+08/25/2026 13:33:27	3	16	Mag1_off
+08/25/2026 13:33:33	3	17	Magnetron_Rot_off
+08/25/2026 13:33:38	3	18	Substrate_Rot_Stop
+08/25/2026 13:33:43	3	19	MFC_all_off
+08/25/2026 13:33:43	3	20	Pumping_HV
+08/25/2026 13:33:44	3	22	Substrate_Rot_LoadPos

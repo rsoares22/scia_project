@@ -1,0 +1,160 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LogedRecipe User="paulo freitas">
+	<RecipeName>scia_PM2_TiW_FAT_noHe_550W_26sccm_hard_mask</RecipeName>
+	<Steps>
+		<Step StepNo="1">
+			<StepName>MFC2_026sccm</StepName>
+			<Activities>
+				<Activity Activity="start" Date="2026-08-31T16:11:20" />
+				<Activity Activity="successful" Date="2026-08-31T16:11:21" />
+			</Activities>
+		</Step>
+		<Step StepNo="2">
+			<StepName>Wait_00min10s</StepName>
+			<Activities>
+				<Activity Activity="start" Date="2026-08-31T16:11:21" />
+				<Activity Activity="successful" Date="2026-08-31T16:11:31" />
+			</Activities>
+		</Step>
+		<Step StepNo="3">
+			<StepName>Pumping_throttled</StepName>
+			<Activities>
+				<Activity Activity="start" Date="2026-08-31T16:11:31" />
+				<Activity Activity="successful" Date="2026-08-31T16:11:32" />
+			</Activities>
+		</Step>
+		<Step StepNo="4">
+			<StepName>Wait_00min10s</StepName>
+			<Activities>
+				<Activity Activity="start" Date="2026-08-31T16:11:32" />
+				<Activity Activity="successful" Date="2026-08-31T16:11:42" />
+			</Activities>
+		</Step>
+		<Step StepNo="5">
+			<StepName>Substrate_Rot_15_rpm</StepName>
+			<Activities>
+				<Activity Activity="start" Date="2026-08-31T16:11:42" />
+				<Activity Activity="successful" Date="2026-08-31T16:11:56" />
+			</Activities>
+		</Step>
+		<Step StepNo="6">
+			<StepName>Mag1_550W_350kHz_1.1mus</StepName>
+			<Activities>
+				<Activity Activity="start" Date="2026-08-31T16:11:56" />
+				<Activity Activity="successful" Date="2026-08-31T16:12:07" />
+			</Activities>
+		</Step>
+		<Step StepNo="7">
+			<StepName>ProductionLog_Start</StepName>
+			<Activities>
+				<Activity Activity="start" Date="2026-08-31T16:12:07" />
+				<Activity Activity="successful" Date="2026-08-31T16:12:07" />
+			</Activities>
+		</Step>
+		<Step StepNo="8">
+			<StepName>Shutter_Mag1_open</StepName>
+			<Activities>
+				<Activity Activity="start" Date="2026-08-31T16:12:07" />
+				<Activity Activity="successful" Date="2026-08-31T16:12:08" />
+			</Activities>
+		</Step>
+		<Step StepNo="9">
+			<StepName>Wait_01min00s</StepName>
+			<Activities>
+				<Activity Activity="start" Date="2026-08-31T16:12:08" />
+				<Activity Activity="successful" Date="2026-08-31T16:13:09" />
+			</Activities>
+		</Step>
+		<Step StepNo="10">
+			<StepName>Wait_01min00s</StepName>
+			<Activities>
+				<Activity Activity="start" Date="2026-08-31T16:13:09" />
+				<Activity Activity="successful" Date="2026-08-31T16:14:09" />
+			</Activities>
+		</Step>
+		<Step StepNo="11">
+			<StepName>Wait_01min00s</StepName>
+			<Activities>
+				<Activity Activity="start" Date="2026-08-31T16:14:09" />
+				<Activity Activity="successful" Date="2026-08-31T16:15:09" />
+			</Activities>
+		</Step>
+		<Step StepNo="12">
+			<StepName>Wait_01min00s</StepName>
+			<Activities>
+				<Activity Activity="start" Date="2026-08-31T16:15:09" />
+				<Activity Activity="successful" Date="2026-08-31T16:16:10" />
+			</Activities>
+		</Step>
+		<Step StepNo="13">
+			<StepName>Wait_01min00s</StepName>
+			<Activities>
+				<Activity Activity="start" Date="2026-08-31T16:16:10" />
+				<Activity Activity="successful" Date="2026-08-31T16:17:10" />
+			</Activities>
+		</Step>
+		<Step StepNo="13">
+			<StepName>Wait_01min00s</StepName>
+			<Activities>
+				<Activity Activity="start" Date="2026-08-31T16:16:10" />
+				<Activity Activity="successful" Date="2026-08-31T16:17:10" />
+			</Activities>
+		</Step>
+		<Step StepNo="14">
+			<StepName>Wait_01min00s</StepName>
+			<Activities>
+				<Activity Activity="start" Date="2026-08-31T16:17:10" />
+				<Activity Activity="successful" Date="2026-08-31T16:18:10" />
+			</Activities>
+		</Step>
+		<Step StepNo="15">
+			<StepName>Shutter_Mag1_close</StepName>
+			<Activities>
+				<Activity Activity="start" Date="2026-08-31T16:18:10" />
+				<Activity Activity="successful" Date="2026-08-31T16:18:12" />
+			</Activities>
+		</Step>
+		<Step StepNo="16">
+			<StepName>ProductionLog_Stop</StepName>
+			<Activities>
+				<Activity Activity="start" Date="2026-08-31T16:18:12" />
+				<Activity Activity="successful" Date="2026-08-31T16:18:13" />
+			</Activities>
+		</Step>
+		<Step StepNo="17">
+			<StepName>Mag1_off</StepName>
+			<Activities>
+				<Activity Activity="start" Date="2026-08-31T16:18:13" />
+				<Activity Activity="successful" Date="2026-08-31T16:18:19" />
+			</Activities>
+		</Step>
+		<Step StepNo="18">
+			<StepName>MFC_all_off</StepName>
+			<Activities>
+				<Activity Activity="start" Date="2026-08-31T16:18:19" />
+				<Activity Activity="successful" Date="2026-08-31T16:18:21" />
+			</Activities>
+		</Step>
+		<Step StepNo="19">
+			<StepName>Substrate_Rot_off</StepName>
+			<Activities>
+				<Activity Activity="start" Date="2026-08-31T16:18:21" />
+				<Activity Activity="successful" Date="2026-08-31T16:18:28" />
+			</Activities>
+		</Step>
+		<Step StepNo="20">
+			<StepName>Substrate_Rot_Load</StepName>
+			<Activities>
+				<Activity Activity="start" Date="2026-08-31T16:18:28" />
+				<Activity Activity="successful" Date="2026-08-31T16:18:49" />
+			</Activities>
+		</Step>
+		<Step StepNo="21">
+			<StepName>Pumping_HV</StepName>
+			<Activities>
+				<Activity Activity="start" Date="2026-08-31T16:18:49" />
+				<Activity Activity="successful" Date="2026-08-31T16:18:50" />
+			</Activities>
+		</Step>
+	</Steps>
+</LogedRecipe>

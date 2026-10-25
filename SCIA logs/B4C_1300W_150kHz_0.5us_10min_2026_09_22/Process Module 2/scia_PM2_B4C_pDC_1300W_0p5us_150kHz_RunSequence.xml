@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LogedRecipe User="paulo freitas">
+	<RecipeName>scia_PM2_B4C_pDC_1300W_0p5us_150kHz</RecipeName>
+	<Steps>
+		<Step StepNo="1">
+			<StepName>MFC2_139sccm</StepName>
+			<Activities>
+				<Activity Activity="start" Date="2026-09-22T17:47:15" />
+				<Activity Activity="successful" Date="2026-09-22T17:47:16" />
+			</Activities>
+		</Step>
+		<Step StepNo="2">
+			<StepName>Wait_00min10s</StepName>
+			<Activities>
+				<Activity Activity="start" Date="2026-09-22T17:47:16" />
+				<Activity Activity="successful" Date="2026-09-22T17:47:26" />
+			</Activities>
+		</Step>
+		<Step StepNo="3">
+			<StepName>Pumping_throttled</StepName>
+			<Activities>
+				<Activity Activity="start" Date="2026-09-22T17:47:26" />
+				<Activity Activity="successful" Date="2026-09-22T17:47:27" />
+			</Activities>
+		</Step>
+		<Step StepNo="4">
+			<StepName>Wait_00min10s</StepName>
+			<Activities>
+				<Activity Activity="start" Date="2026-09-22T17:47:27" />
+				<Activity Activity="successful" Date="2026-09-22T17:47:38" />
+			</Activities>
+		</Step>
+		<Step StepNo="5">
+			<StepName>Substrate_Rot_15_rpm</StepName>
+			<Activities>
+				<Activity Activity="start" Date="2026-09-22T17:47:38" />
+				<Activity Activity="stopped by user" Date="2026-09-22T17:47:50" />
+			</Activities>
+		</Step>
+	</Steps>
+</LogedRecipe>

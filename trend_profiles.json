@@ -1,0 +1,30 @@
+{
+    "Visão Geral (Overview)": [
+        "PM_Chamber_Pressure_[mbar]",
+        "PM_MFC2_Flow_[sccm]",
+        "PM_Mag1_DC_Power[W]"
+    ],
+    "Vácuo & Bombagem (Vacuum)": [
+        "PM_Chamber_Pressure_[mbar]",
+        "PM_Foreline_Pressure_[mbar]",
+        "TM_Chamber_Pressure_[mbar]",
+        "LL_Chamber_Pressure_[mbar]"
+    ],
+    "Gases & Caudais (Gas System)": [
+        "PM_MFC1_Flow_[sccm]",
+        "PM_MFC2_Flow_[sccm]",
+        "PM_MFC3_Flow_[sccm]",
+        "PM_MFC4_Flow_[sccm]"
+    ],
+    "Descarga DC / Magnetrão (DC Sputtering)": [
+        "PM_Mag1_DC_Power[W]",
+        "PM_Mag1_DC_Voltage_[V]",
+        "PM_Mag1_DC_Current_[A]",
+        "PM_Mag1_DC_Impedance_[Ohm]"
+    ],
+    "Substrato / Polarização RF (RF Bias)": [
+        "PM_Bias_Substrate_RF_Voltage_[V]",
+        "PM_Bias_Substrate_RF_Forward_Power_[W]",
+        "PM_Bias_Substrate_RF_Refl_Power[W]"
+    ]
+}
