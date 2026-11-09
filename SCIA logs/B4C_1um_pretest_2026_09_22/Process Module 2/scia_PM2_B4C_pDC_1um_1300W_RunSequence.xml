@@ -1,0 +1,237 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LogedRecipe User="paulo freitas">
+	<RecipeName>scia_PM2_B4C_pDC_1um_1300W</RecipeName>
+	<Steps>
+		<Step StepNo="1">
+			<StepName>MFC2_139sccm</StepName>
+			<Activities>
+				<Activity Activity="start" Date="2026-09-22T18:21:38" />
+				<Activity Activity="successful" Date="2026-09-22T18:21:39" />
+			</Activities>
+		</Step>
+		<Step StepNo="2">
+			<StepName>Wait_00min10s</StepName>
+			<Activities>
+				<Activity Activity="start" Date="2026-09-22T18:21:39" />
+				<Activity Activity="successful" Date="2026-09-22T18:21:49" />
+			</Activities>
+		</Step>
+		<Step StepNo="3">
+			<StepName>Pumping_throttled</StepName>
+			<Activities>
+				<Activity Activity="start" Date="2026-09-22T18:21:49" />
+				<Activity Activity="successful" Date="2026-09-22T18:21:50" />
+			</Activities>
+		</Step>
+		<Step StepNo="4">
+			<StepName>Wait_00min10s</StepName>
+			<Activities>
+				<Activity Activity="start" Date="2026-09-22T18:21:50" />
+				<Activity Activity="successful" Date="2026-09-22T18:22:00" />
+			</Activities>
+		</Step>
+		<Step StepNo="5">
+			<StepName>Substrate_Rot_15_rpm</StepName>
+			<Activities>
+				<Activity Activity="start" Date="2026-09-22T18:22:00" />
+				<Activity Activity="successful" Date="2026-09-22T18:22:13" />
+			</Activities>
+		</Step>
+		<Step StepNo="6">
+			<StepName>Mag2_250W_150kHz_0.5us</StepName>
+			<Activities>
+				<Activity Activity="start" Date="2026-09-22T18:22:13" />
+				<Activity Activity="successful" Date="2026-09-22T18:22:24" />
+			</Activities>
+		</Step>
+		<Step StepNo="7">
+			<StepName>Wait_00min05s</StepName>
+			<Activities>
+				<Activity Activity="start" Date="2026-09-22T18:22:24" />
+				<Activity Activity="successful" Date="2026-09-22T18:22:29" />
+			</Activities>
+		</Step>
+		<Step StepNo="8">
+			<StepName>Mag2_600W_150kHz_0.5us</StepName>
+			<Activities>
+				<Activity Activity="start" Date="2026-09-22T18:22:29" />
+				<Activity Activity="successful" Date="2026-09-22T18:22:29" />
+			</Activities>
+		</Step>
+		<Step StepNo="9">
+			<StepName>Wait_00min05s</StepName>
+			<Activities>
+				<Activity Activity="start" Date="2026-09-22T18:22:29" />
+				<Activity Activity="successful" Date="2026-09-22T18:22:35" />
+			</Activities>
+		</Step>
+		<Step StepNo="10">
+			<StepName>Mag2_850W_150kHz_0.5us</StepName>
+			<Activities>
+				<Activity Activity="start" Date="2026-09-22T18:22:35" />
+				<Activity Activity="successful" Date="2026-09-22T18:22:35" />
+			</Activities>
+		</Step>
+		<Step StepNo="11">
+			<StepName>Wait_00min05s</StepName>
+			<Activities>
+				<Activity Activity="start" Date="2026-09-22T18:22:35" />
+				<Activity Activity="successful" Date="2026-09-22T18:22:40" />
+			</Activities>
+		</Step>
+		<Step StepNo="12">
+			<StepName>Mag2_1000W_150kHz_0.5us</StepName>
+			<Activities>
+				<Activity Activity="start" Date="2026-09-22T18:22:40" />
+				<Activity Activity="successful" Date="2026-09-22T18:22:40" />
+			</Activities>
+		</Step>
+		<Step StepNo="13">
+			<StepName>Wait_00min05s</StepName>
+			<Activities>
+				<Activity Activity="start" Date="2026-09-22T18:22:40" />
+				<Activity Activity="successful" Date="2026-09-22T18:22:46" />
+			</Activities>
+		</Step>
+		<Step StepNo="14">
+			<StepName>Mag2_1300W_150kHz_0.5us</StepName>
+			<Activities>
+				<Activity Activity="start" Date="2026-09-22T18:22:46" />
+				<Activity Activity="successful" Date="2026-09-22T18:22:46" />
+			</Activities>
+		</Step>
+		<Step StepNo="15">
+			<StepName>Wait_00min05s</StepName>
+			<Activities>
+				<Activity Activity="start" Date="2026-09-22T18:22:46" />
+				<Activity Activity="successful" Date="2026-09-22T18:22:51" />
+			</Activities>
+		</Step>
+		<Step StepNo="16">
+			<StepName>Shutter_Mag2_open</StepName>
+			<Activities>
+				<Activity Activity="start" Date="2026-09-22T18:22:51" />
+				<Activity Activity="successful" Date="2026-09-22T18:22:52" />
+			</Activities>
+		</Step>
+		<Step StepNo="17">
+			<StepName>ProductionLog_Start</StepName>
+			<Activities>
+				<Activity Activity="start" Date="2026-09-22T18:22:52" />
+				<Activity Activity="successful" Date="2026-09-22T18:22:53" />
+			</Activities>
+		</Step>
+		<Step StepNo="18">
+			<StepName>Wait_01min00s</StepName>
+			<Activities>
+				<Activity Activity="start" Date="2026-09-22T18:22:53" />
+				<Activity Activity="successful" Date="2026-09-22T18:23:53" />
+			</Activities>
+		</Step>
+		<Step StepNo="19">
+			<StepName>Wait_01min00s</StepName>
+			<Activities>
+				<Activity Activity="start" Date="2026-09-22T18:23:53" />
+				<Activity Activity="successful" Date="2026-09-22T18:24:53" />
+			</Activities>
+		</Step>
+		<Step StepNo="20">
+			<StepName>Wait_01min00s</StepName>
+			<Activities>
+				<Activity Activity="start" Date="2026-09-22T18:24:53" />
+				<Activity Activity="successful" Date="2026-09-22T18:25:54" />
+			</Activities>
+		</Step>
+		<Step StepNo="21">
+			<StepName>Mag2_600W_150kHz_0.5us</StepName>
+			<Activities>
+				<Activity Activity="start" Date="2026-09-22T18:25:54" />
+				<Activity Activity="successful" Date="2026-09-22T18:25:54" />
+			</Activities>
+		</Step>
+		<Step StepNo="22">
+			<StepName>Wait_01min00s</StepName>
+			<Activities>
+				<Activity Activity="start" Date="2026-09-22T18:25:54" />
+				<Activity Activity="successful" Date="2026-09-22T18:26:54" />
+			</Activities>
+		</Step>
+		<Step StepNo="23">
+			<StepName>Wait_01min00s</StepName>
+			<Activities>
+				<Activity Activity="start" Date="2026-09-22T18:26:54" />
+				<Activity Activity="successful" Date="2026-09-22T18:27:54" />
+			</Activities>
+		</Step>
+		<Step StepNo="24">
+			<StepName>Mag2_1300W_150kHz_0.5us</StepName>
+			<Activities>
+				<Activity Activity="start" Date="2026-09-22T18:27:54" />
+				<Activity Activity="successful" Date="2026-09-22T18:27:55" />
+			</Activities>
+		</Step>
+		<Step StepNo="25">
+			<StepName>Wait_01min00s</StepName>
+			<Activities>
+				<Activity Activity="start" Date="2026-09-22T18:27:55" />
+				<Activity Activity="successful" Date="2026-09-22T18:28:55" />
+			</Activities>
+		</Step>
+		<Step StepNo="26">
+			<StepName>Shutter_Mag2_close</StepName>
+			<Activities>
+				<Activity Activity="start" Date="2026-09-22T18:28:55" />
+				<Activity Activity="successful" Date="2026-09-22T18:28:56" />
+			</Activities>
+		</Step>
+		<Step StepNo="27">
+			<StepName>ProductionLog_Stop</StepName>
+			<Activities>
+				<Activity Activity="start" Date="2026-09-22T18:28:56" />
+				<Activity Activity="successful" Date="2026-09-22T18:28:56" />
+			</Activities>
+		</Step>
+		<Step StepNo="28">
+			<StepName>Mag2_600W_200kHz_0.5us</StepName>
+			<Activities>
+				<Activity Activity="start" Date="2026-09-22T18:28:56" />
+				<Activity Activity="successful" Date="2026-09-22T18:28:56" />
+			</Activities>
+		</Step>
+		<Step StepNo="29">
+			<StepName>Mag2_off</StepName>
+			<Activities>
+				<Activity Activity="start" Date="2026-09-22T18:28:56" />
+				<Activity Activity="successful" Date="2026-09-22T18:29:03" />
+			</Activities>
+		</Step>
+		<Step StepNo="30">
+			<StepName>MFC_all_off</StepName>
+			<Activities>
+				<Activity Activity="start" Date="2026-09-22T18:29:03" />
+				<Activity Activity="successful" Date="2026-09-22T18:29:04" />
+			</Activities>
+		</Step>
+		<Step StepNo="31">
+			<StepName>Substrate_Rot_off</StepName>
+			<Activities>
+				<Activity Activity="start" Date="2026-09-22T18:29:04" />
+				<Activity Activity="successful" Date="2026-09-22T18:29:11" />
+			</Activities>
+		</Step>
+		<Step StepNo="32">
+			<StepName>Substrate_Rot_Load</StepName>
+			<Activities>
+				<Activity Activity="start" Date="2026-09-22T18:29:11" />
+				<Activity Activity="successful" Date="2026-09-22T18:29:32" />
+			</Activities>
+		</Step>
+		<Step StepNo="33">
+			<StepName>Pumping_HV</StepName>
+			<Activities>
+				<Activity Activity="start" Date="2026-09-22T18:29:32" />
+				<Activity Activity="successful" Date="2026-09-22T18:29:33" />
+			</Activities>
+		</Step>
+	</Steps>
+</LogedRecipe>
